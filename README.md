@@ -1,2 +1,2 @@
 # ANH-Design
-Progetto web applicaiton di quinta, consulenza web design 
+Progetto web applicaiton di quinta
