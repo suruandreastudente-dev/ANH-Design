@@ -19,7 +19,7 @@ persone o aziende in cerca di design web personalizzati a prezzi competitivi e d
 Fiverr market place di servizi freelance
 
 ## TECNOLOGIE 
-html,php,js,bootstrap,MySQL
+html - php - js - bootstrap - MySQL
 
 ## LINK PUBBLICO : 
 
