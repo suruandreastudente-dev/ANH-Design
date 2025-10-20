@@ -3,7 +3,7 @@
 ### **COGNOME-NOME** 
 Suru Andrea
 
-### TITOLO PROGETTO  
+### **TITOLO PROGETTO**
 ANH-Design
 
 ### TAGLINE 
