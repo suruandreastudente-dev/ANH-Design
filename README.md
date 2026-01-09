@@ -26,9 +26,6 @@ _html - php - js - bootstrap - MySQL_
 <img width="752" height="776" alt="image" src="https://github.com/user-attachments/assets/31b11ab0-e4fe-46a5-b315-3786273ea805" />
 <img width="450" height="471" alt="image" src="https://github.com/user-attachments/assets/c2a31ed3-6306-4d67-b0c5-8fdf2f94a3e1" />
 
-
-
-
 ### **LINK PUBBLICO**  
 
 
