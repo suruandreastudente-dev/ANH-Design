@@ -1,38 +1,69 @@
-<?php
-// index.php
-?>
-<!DOCTYPE html>
-<html lang="it">
+<!doctype html>
+<html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <title>Home Page</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            text-align: center;
-            padding-top: 50px;
-        }
-        .container {
-            background: #fff;
-            padding: 30px;
-            margin: auto;
-            width: 60%;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-    </style>
+    <title>Suru Andrea - Scuola</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <!-- Bootstrap CSS v5.2.1 -->
+    <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+        crossorigin="anonymous" />
 </head>
+
 <body>
 
-<div class="container">
-    <h1>Benvenuto nel mio sito</h1>
-    <p>Questa è una home page semplice in PHP.</p>
+    <video autoplay muted loop playsinline
+        class="position-fixed top-0 start-0 w-100 h-100 object-fit-cover z-n1">
+        <source src="video sfondo.mp4" type="video/mp4">
+        Il tuo browser non supporta i video in background.
+    </video>
 
-    <p>
-        Oggi è:
-        <strong><?php echo date("d/m/Y"); ?></strong>
-    </p>
-</div>
 
+
+    <header>
+        <nav class="navbar navbar-expand-lg rounded-pill mx-auto mt-3 px-4 text-white bg-opacity-10" style="background-color: #1b0e0c; max-width: 950px ">
+            <div class="container-fluid">
+                <a class="navbar-brand text-white" href="index.php">Home Page </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav d-flex justify-content-evenly w-100">
+                        <a class="nav-link active text-white fst-italic " aria-current="page" href="INFORMATICA/informatica.php">INFO</a>
+                        <a class="nav-link text-white fst-italic " href="#">TEP</a>
+                        <a class="nav-link text-white fst-italic " href="#">GEP</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <div class="container">
+
+        </div>
+
+
+    </main>
+    <footer>
+        <!-- place footer here -->
+    </footer>
+    <!-- Bootstrap JavaScript Libraries -->
+    <script
+        src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>
+
+    <script
+        src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+        integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+        crossorigin="anonymous"></script>
 </body>
+
 </html>
