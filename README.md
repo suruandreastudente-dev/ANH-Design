@@ -21,6 +21,10 @@ _Fiverr market place di servizi freelance_
 ### **TECNOLOGIE**
 _html - php - js - bootstrap - MySQL_
 
+### **DIAGRAMMI**
+<img width="847" height="675" alt="image" src="https://github.com/user-attachments/assets/4c84685d-b1ae-4d6e-a116-73c165c63c32" />
+
+
 ### **LINK PUBBLICO**  
 
 
