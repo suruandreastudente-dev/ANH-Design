@@ -1,31 +1,28 @@
-# **ANH-Design**
+# **Design Flow**
 
-### **COGNOME-NOME** 
-_Suru Andrea_
+### **COGNOME-NOME** _Suru Andrea_
 
 ### **TITOLO PROGETTO**
-_ANH-Design_
+_Design Flow_
 
 ### **TAGLINE**
-_"Dai vita al tuo progetto online o vendi il tuo talento: trova il designer perfetto per te o mostra il tuo stile a chi cerca il design ideale, in modo semplice e sicuro."_
+_"Connetti il tuo talento al progetto giusto: il marketplace trasparente per i servizi digitali, dove la collaborazione nasce dal dialogo e non dagli acquisti a scatola chiusa."_
 
 ### **DESCRIZIONE**
-_La mia piattaforma web connetterà clienti e web designer, permettendo loro di collaborare facilmente sulla creazione di siti web. Ogni designer ha un profilo che mostra il proprio stile attraverso un portfolio selezionato, evidenziando competenze come design responsive, animazioni e scelte di colori.I clienti potranno scegliere tra pacchetti di design a diversi livelli di complessità, con prezzi variabili. Una volta selezionato il pacchetto, il cliente entra in contatto con il designer per definire i dettagli del progetto. La piattaforma offre strumenti per monitorare l'avanzamento del lavoro e garantisce il pagamento sicuro, con una parte versata all'inizio e il saldo rilasciato solo al completamento. Inoltre, la piattaforma trattiene una commissione sulla transazione._
+_Design Flow è una piattaforma web multi-tenant progettata per far incontrare in modo sicuro clienti e professionisti freelance (sviluppatori, designer, traduttori, ecc.). Il cuore del sistema è la logica di tutela "Richiedi prima, Paga poi": a differenza dei marketplace tradizionali, i clienti non acquistano direttamente un servizio, ma inviano una richiesta formale di collaborazione descrivendo il proprio progetto. Solo quando il freelancer analizza e accetta l'incarico, il sistema genera un ordine vincolante e sblocca il pagamento sicuro. L'ecosistema integra un sistema di autenticazione protetto (Password Hashing con Salt & Pepper e JWT per le API), una gestione dei ruoli (RBAC) che permette a un singolo utente di agire sia da Cliente che da Venditore, e un'area operativa privata (Workspace) per gestire le comunicazioni e la consegna dei file._
 
 ### **TARGET**
-_persone o aziende in cerca di design web personalizzati a prezzi competitivi e designer freelance che vogliono promuovere il loro lavoro e semplificare il processo di vendita e gestione dei progetti._
+_Studenti, privati o aziende in cerca di servizi digitali di qualità a prezzi competitivi, e professionisti freelance che cercano un ambiente tutelato per offrire le proprie competenze senza il rischio di ordini non realizzabili._
 
 ### **COMPETITORS**
-_Fiverr market place di servizi freelance_
+_Fiverr, Upwork (rispetto ai quali Design Flow offre maggiore tutela preventiva al venditore bloccando gli acquisti diretti non concordati)._
 
 ### **TECNOLOGIE**
-_html - php - js - bootstrap - MySQL_
+_html - php - js - bootstrap - MySQL (Architettura MVC, API RESTful, JWT)_
 
 ### **DIAGRAMMI**
-<img width="847" height="675" alt="image" src="https://github.com/user-attachments/assets/4c84685d-b1ae-4d6e-a116-73c165c63c32" />
-<img width="752" height="776" alt="image" src="https://github.com/user-attachments/assets/31b11ab0-e4fe-46a5-b315-3786273ea805" />
-<img width="450" height="471" alt="image" src="https://github.com/user-attachments/assets/c2a31ed3-6306-4d67-b0c5-8fdf2f94a3e1" />
+<img width="800" alt="Use Case Diagram" src="link_al_tuo_use_case.png" />
+<img width="800" alt="Class Diagram" src="link_al_tuo_class_diagram.png" />
+<img width="800" alt="ER Diagram" src="link_al_tuo_er_diagram.png" />
 
-### **LINK PUBBLICO**  
-
-
+### **LINK PUBBLICO** ```
